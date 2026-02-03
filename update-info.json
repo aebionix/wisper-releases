@@ -1,6 +1,6 @@
 {
-  "version": "1.2.22",
   "release_date": "2026-02-03",
-  "release_notes": "Fix: Update-Fenster zeigt klaren Fortschritt",
-  "download_url": "https://github.com/aebionix/wisper-releases/raw/main/releases/WisperApp-v1.2.22.zip"
+  "release_notes": "Test Umlaute im Update-Fenster",
+  "version": "1.2.23",
+  "download_url": "https://github.com/aebionix/wisper-releases/raw/main/releases/WisperApp-v1.2.23.zip"
 }
