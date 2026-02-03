@@ -1,6 +1,6 @@
 {
-  "download_url": "https://github.com/aebionix/wisper-releases/raw/main/releases/WisperApp-v1.2.0.zip",
-  "version": "1.2.0",
-  "release_notes": "Diverse Anpassungen in den Settings und Theme durchgezogen",
+  "download_url": "https://github.com/aebionix/wisper-releases/raw/main/releases/WisperApp-v1.2.1.zip",
+  "version": "1.2.1",
+  "release_notes": "Fix: Auto-Update Script verbessert",
   "release_date": "2026-02-03"
 }
