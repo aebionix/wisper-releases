@@ -1,6 +1,6 @@
 {
-  "release_date": "2026-02-03",
-  "release_notes": "Test Umlaute im Update-Fenster",
-  "version": "1.2.23",
-  "download_url": "https://github.com/aebionix/wisper-releases/raw/main/releases/WisperApp-v1.2.23.zip"
+  "download_url": "https://github.com/aebionix/wisper-releases/raw/main/releases/WisperApp-v1.2.24.zip",
+  "version": "1.2.24",
+  "release_notes": "Countdown überschreibt sich selbst",
+  "release_date": "2026-02-03"
 }
