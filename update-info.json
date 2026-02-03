@@ -1,6 +1,6 @@
 {
-  "release_notes": "Fix: Windows-1252 Encoding mit Umlauten (CodePages im App-Start registriert)",
+  "release_notes": "Test: Auto-Update mit Umlauten",
   "release_date": "2026-02-03",
-  "download_url": "https://github.com/aebionix/wisper-releases/raw/main/releases/WisperApp-v1.2.17.zip",
-  "version": "1.2.17"
+  "version": "1.2.18",
+  "download_url": "https://github.com/aebionix/wisper-releases/raw/main/releases/WisperApp-v1.2.18.zip"
 }
