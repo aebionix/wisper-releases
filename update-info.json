@@ -1,6 +1,6 @@
 {
-  "release_date": "2026-02-03",
-  "version": "1.2.15",
-  "download_url": "https://github.com/aebionix/wisper-releases/raw/main/releases/WisperApp-v1.2.15.zip",
-  "release_notes": "Test: Auto-Update von v1.2.14"
+  "download_url": "https://github.com/aebionix/wisper-releases/raw/main/releases/WisperApp-v1.2.16.zip",
+  "release_notes": "UTF-8 mit Umlauten im Update-Script",
+  "version": "1.2.16",
+  "release_date": "2026-02-03"
 }
