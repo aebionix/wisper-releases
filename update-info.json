@@ -1,6 +1,6 @@
 {
-  "release_notes": "Test: Auto-Update mit Umlauten",
   "release_date": "2026-02-03",
+  "release_notes": "Besserer Countdown im Update-Fenster",
   "version": "1.2.18",
   "download_url": "https://github.com/aebionix/wisper-releases/raw/main/releases/WisperApp-v1.2.18.zip"
 }
