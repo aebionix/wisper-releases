@@ -1,6 +1,6 @@
 {
+  "download_url": "https://github.com/aebionix/wisper-releases/raw/main/releases/WisperApp-v1.2.21.zip",
   "release_date": "2026-02-03",
-  "version": "1.2.20",
-  "release_notes": "PowerShell statt Batch für Update-Script (UTF-8 mit Umlauten)",
-  "download_url": "https://github.com/aebionix/wisper-releases/raw/main/releases/WisperApp-v1.2.20.zip"
+  "version": "1.2.21",
+  "release_notes": "Test PowerShell Update-Script mit Umlauten"
 }
