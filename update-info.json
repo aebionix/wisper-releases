@@ -1,6 +1,7 @@
 {
-  "release_date": "2026-02-03",
-  "release_notes": "GUI Updater: 6s Countdown, kein Konsolen-Fenster",
-  "version": "1.2.29",
-  "download_url": "https://github.com/aebionix/wisper-releases/raw/main/releases/WisperApp-v1.2.29.zip"
+  "installer": true,
+  "release_notes": "Inno Setup Installer",
+  "version": "1.3.0",
+  "download_url": "https://github.com/aebionix/wisper-releases/releases/download/v1.3.0/WisperApp-v1.3.0-Setup.exe",
+  "release_date": "2026-02-07"
 }
