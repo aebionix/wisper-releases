@@ -1,7 +1,8 @@
 {
-  "installer": true,
-  "download_url": "https://github.com/aebionix/wisper-releases/releases/download/v1.3.4/WisperApp-v1.3.4-Setup.exe",
-  "release_date": "2026-02-08",
   "version": "1.3.4",
+  "download_url": "https://github.com/aebionix/wisper-releases/releases/download/v1.3.4/WisperApp-v1.3.4.zip",
+  "installer_url": "https://github.com/aebionix/wisper-releases/releases/download/v1.3.4/WisperApp-v1.3.4-Setup.exe",
+  "installer": true,
+  "release_date": "2026-02-08",
   "release_notes": "Fix: Download mit Redirects und Groessen-Pruefung"
 }
