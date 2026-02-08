@@ -1,7 +1,7 @@
 {
   "installer": true,
-  "download_url": "https://github.com/aebionix/wisper-releases/releases/download/v1.3.1/WisperApp-v1.3.1-Setup.exe",
-  "release_notes": "Fix: Portable Pfade (keine hardcoded X:\\Wisper mehr)",
   "release_date": "2026-02-08",
-  "version": "1.3.1"
+  "release_notes": "Fix: Auto-Update funktioniert jetzt mit Installer (statt ZIP)",
+  "download_url": "https://github.com/aebionix/wisper-releases/releases/download/v1.3.2/WisperApp-v1.3.2-Setup.exe",
+  "version": "1.3.2"
 }
